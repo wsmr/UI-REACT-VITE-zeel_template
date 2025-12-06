@@ -1,4 +1,4 @@
-# Zeel Project Homepage Replication
+# Zeel Project Homepage Replication (https://zeelproject.com/)
 
 A pixel-perfect visual replication of the zeelproject.com homepage, built with modern frontend technologies. This project replicates the design, layout, and visual components of the original website using React, TypeScript, and Tailwind CSS.
 
